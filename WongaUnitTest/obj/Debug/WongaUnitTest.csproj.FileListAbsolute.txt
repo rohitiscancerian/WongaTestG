@@ -1,0 +1,7 @@
+D:\MyProjects\WongaTest\WongaUnitTest\bin\Debug\WongaUnitTest.dll
+D:\MyProjects\WongaTest\WongaUnitTest\bin\Debug\WongaUnitTest.pdb
+D:\MyProjects\WongaTest\WongaUnitTest\bin\Debug\WongaTest.exe
+D:\MyProjects\WongaTest\WongaUnitTest\bin\Debug\WongaTest.pdb
+D:\MyProjects\WongaTest\WongaUnitTest\obj\Debug\WongaUnitTest.csprojResolveAssemblyReference.cache
+D:\MyProjects\WongaTest\WongaUnitTest\obj\Debug\WongaUnitTest.dll
+D:\MyProjects\WongaTest\WongaUnitTest\obj\Debug\WongaUnitTest.pdb

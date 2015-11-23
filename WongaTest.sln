@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WongaTest", "WongaTest\WongaTest.csproj", "{2F8120CE-C0CC-4BBB-84D2-2A63708C881F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WongaUnitTest", "WongaUnitTest\WongaUnitTest.csproj", "{CFF80B65-FDB0-421C-BE43-26595FDBC05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8120CE-C0CC-4BBB-84D2-2A63708C881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8120CE-C0CC-4BBB-84D2-2A63708C881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8120CE-C0CC-4BBB-84D2-2A63708C881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8120CE-C0CC-4BBB-84D2-2A63708C881F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF80B65-FDB0-421C-BE43-26595FDBC05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF80B65-FDB0-421C-BE43-26595FDBC05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF80B65-FDB0-421C-BE43-26595FDBC05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF80B65-FDB0-421C-BE43-26595FDBC05F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
